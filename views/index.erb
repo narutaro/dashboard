@@ -1,0 +1,185 @@
+
+<!-- JQuery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+
+<!-- Bootstrap -->
+<!-- Latest compiled and minified CSS -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.2/flatly/bootstrap.css">
+<!-- Optional theme -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.2/flatly/bootstrap.min.css">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+<!-- Morris.js -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css">
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script> -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js"></script>
+
+<!-- Statusbox -->
+<link rel="stylesheet" type="text/css" href="status_box.css">
+<!-- <script type="text/javascript" src="status_box.js"></script> -->
+
+<!-- Jvectormap -->
+<link rel="stylesheet" href="jquery-jvectormap-2.0.1.css" type="text/css" media="screen"/>
+<script src="jquery-jvectormap-2.0.1.min.js"></script>
+<script src="jquery-jvectormap-world-mill-en.js"></script>
+
+<div class="container">
+            
+    <div class="row">
+        <div class="col-xs-6 col-md-3">
+           
+            <div class="panel status panel-success">
+                <div class="panel-heading">
+                    <h1 class="panel-title text-center">315</h1>
+                </div>
+                <div class="panel-body text-center">                        
+                    <strong>Running</strong>
+                </div>
+            </div>
+
+         
+        </div>
+        <div class="col-xs-6 col-md-3">
+            
+            <div class="panel status panel-danger">
+                <div class="panel-heading">
+                    <h1 class="panel-title text-center">0</h1>
+                </div>
+                <div class="panel-body text-center">                        
+                    <strong>Stopped</strong>
+                </div>
+            </div>
+
+        </div>          
+        <div class="col-xs-6 col-md-3">
+          
+            <div class="panel status panel-warning">
+                <div class="panel-heading">
+                    <h1 class="panel-title text-center">8</h1>
+                </div>
+                <div class="panel-body text-center">                        
+                    <strong>Maintenance</strong>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-xs-6 col-md-3">
+          
+            <div class="panel status panel-info">
+                <div class="panel-heading">
+                    <h1 class="panel-title text-center">18</h1>
+                </div>
+                <div class="panel-body text-center">                        
+                    <strong>Total</strong>
+                </div>
+            </div>
+
+         
+        </div>
+    </div>
+
+    <div class="row" id="history_chart" style="height: 250px;"></div>
+
+    <!-- 
+    <div id="world-map" style="width: 600px; height: 400px"></div>
+    -->
+    <br>
+    <div id="world-map"></div>
+
+</div>
+
+<!--
+<hr>
+
+<div class="container well"> 
+    <strong>Theme <small>(<a href="http://bootswatch.com/" target="_new">bootswatch.com</a>)</small></strong>
+    <select class="form-control"></select>
+</div>
+
+<link src="http://bootswatch.com/flatly/bootstrap.css" type="text/css">
+<link src="http://bootswatch.com/readable/bootstrap.css" type="text/css">
+-->
+
+<script>
+Morris.Line({
+  element: 'history_chart',
+  data: [
+    //{ y: '2015-02-09', a: 316, b: 0 },
+    { y: '2015-02-09', a: 316 },
+    { y: '2015-02-10', a: 316 },
+    { y: '2015-02-11', a: 311 }
+  ],
+  xkey: 'y',
+  ykeys: ['a', 'b'],
+  labels: ['Running', 'Stopped'],
+  //goals: [300],
+  lineColors: ['#18bc9c', '#e74c3c'],
+  fillOpacity: '0.5'
+});
+</script>
+
+<script>
+$(function(){
+  $('#world-map').vectorMap({
+    map: 'world_mill_en',
+    scaleColors: ['#C8EEFF', '#0071A4'],
+    normalizeFunction: 'polynomial',
+    hoverOpacity: 0.7,
+    hoverColor: false,
+    markerStyle: {
+      initial: {
+        fill: '#F8E23B',
+        stroke: '#383f47'
+      }
+    },
+    regionStyle: {
+      initial: {
+        fill: '#383f47'
+      },
+      selected: {
+        fill: '#F4A582'
+      }
+    },
+    //backgroundColor: '#383f47',
+    backgroundColor: 'white',
+    markers: [
+      {latLng: [41.90, 12.45], name: 'Vatican City'},
+      {latLng: [43.73, 7.41], name: 'Monaco'},
+      {latLng: [-0.52, 166.93], name: 'Nauru'},
+      {latLng: [-8.51, 179.21], name: 'Tuvalu'},
+      {latLng: [43.93, 12.46], name: 'San Marino'},
+      {latLng: [47.14, 9.52], name: 'Liechtenstein'},
+      {latLng: [7.11, 171.06], name: 'Marshall Islands'},
+      {latLng: [17.3, -62.73], name: 'Saint Kitts and Nevis'},
+      {latLng: [3.2, 73.22], name: 'Maldives'},
+      {latLng: [35.88, 14.5], name: 'Malta'},
+      {latLng: [12.05, -61.75], name: 'Grenada'},
+      {latLng: [13.16, -61.23], name: 'Saint Vincent and the Grenadines'},
+      {latLng: [13.16, -59.55], name: 'Barbados'},
+      {latLng: [17.11, -61.85], name: 'Antigua and Barbuda'},
+      {latLng: [-4.61, 55.45], name: 'Seychelles'},
+      {latLng: [7.35, 134.46], name: 'Palau'},
+      {latLng: [42.5, 1.51], name: 'Andorra'},
+      {latLng: [14.01, -60.98], name: 'Saint Lucia'},
+      {latLng: [6.91, 158.18], name: 'Federated States of Micronesia'},
+      {latLng: [1.3, 103.8], name: 'Singapore'},
+      {latLng: [1.46, 173.03], name: 'Kiribati'},
+      {latLng: [-21.13, -175.2], name: 'Tonga'},
+      {latLng: [15.3, -61.38], name: 'Dominica'},
+      {latLng: [-20.2, 57.5], name: 'Mauritius'},
+      {latLng: [26.02, 50.55], name: 'Bahrain'},
+      {latLng: [0.33, 6.73], name: 'São Tomé and Príncipe'}
+    ]
+  });
+});
+/*
+$(function(){
+  $('#world-map').vectorMap();
+  //$('#map').vectorMap({map: 'world_mill_en'});
+});
+*/
+</script>
