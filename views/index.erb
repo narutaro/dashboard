@@ -1,4 +1,4 @@
-
+<html>
 <!-- JQuery -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
 
@@ -34,7 +34,7 @@
            
             <div class="panel status panel-success">
                 <div class="panel-heading">
-                    <h1 class="panel-title text-center">315</h1>
+                    <h1 id="running" class="panel-title text-center">@</h1>
                 </div>
                 <div class="panel-body text-center">                        
                     <strong>Running</strong>
@@ -47,7 +47,7 @@
             
             <div class="panel status panel-danger">
                 <div class="panel-heading">
-                    <h1 class="panel-title text-center">0</h1>
+                    <h1 id="stopped" class="panel-title text-center">@</h1>
                 </div>
                 <div class="panel-body text-center">                        
                     <strong>Stopped</strong>
@@ -59,10 +59,10 @@
           
             <div class="panel status panel-warning">
                 <div class="panel-heading">
-                    <h1 class="panel-title text-center">8</h1>
+                    <h1 id="terminated" class="panel-title text-center">@</h1>
                 </div>
                 <div class="panel-body text-center">                        
-                    <strong>Maintenance</strong>
+                    <strong>Terminated</strong>
                 </div>
             </div>
 
@@ -71,7 +71,7 @@
           
             <div class="panel status panel-info">
                 <div class="panel-heading">
-                    <h1 class="panel-title text-center">18</h1>
+                    <h1 id="total" class="panel-title text-center">@</h1>
                 </div>
                 <div class="panel-body text-center">                        
                     <strong>Total</strong>
@@ -109,15 +109,16 @@ Morris.Line({
   element: 'history_chart',
   data: [
     //{ y: '2015-02-09', a: 316, b: 0 },
-    { y: '2015-02-09', a: 316 },
-    { y: '2015-02-10', a: 316 },
-    { y: '2015-02-11', a: 311 }
+    { y: '2015-02-09', a: 316, b: 40, c: 23 },
+    { y: '2015-02-10', a: 316, b: 40, c: 23  },
+    { y: '2015-02-11', a: 311, b: 40, c: 23  },
+    { y: '2015-02-12', a: 316, b: 40, c: 23  }
   ],
   xkey: 'y',
-  ykeys: ['a', 'b'],
-  labels: ['Running', 'Stopped'],
+  ykeys: ['a', 'b', 'c'],
+  labels: ['Running', 'Stopped', 'Terminated'],
   //goals: [300],
-  lineColors: ['#18bc9c', '#e74c3c'],
+  lineColors: ['#18bc9c', '#e74c3c', '#f39c12'],
   fillOpacity: '0.5'
 });
 </script>
@@ -183,3 +184,16 @@ $(function(){
 });
 */
 </script>
+<script>
+$.getJSON("stats", function(res){
+  console.log(res);
+  //console.log(res['RUNNING']);
+  var TOTAL = res['RUNNING'] + res['STOPPED'] + res['TERMINATED'];
+  console.log(TOTAL);
+  $('#running').text(res['RUNNING']);
+  $('#stopped').text(res['STOPPED']);
+  $('#terminated').text(res['TERMINATED']);
+  $('#total').text(TOTAL);
+});
+</script>
+</html>

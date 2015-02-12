@@ -1,4 +1,3 @@
-require 'sinatra'
 require "rubygems"
 require "active_record"
 require "yaml"
@@ -16,14 +15,4 @@ end
 
 #p Sensor.select(status, count(status))#.group("status")
 
-#p Sensor.group("status").count
-
-get '/' do
-  erb :index
-end
-
-get '/stats' do
-  content_type :json, :charset => 'utf-8'
-  status = Sensor.group("status").count
-  status.to_json(:root => false)
-end
+p Sensor.group("status").count
