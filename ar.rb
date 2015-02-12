@@ -1,6 +1,7 @@
 require "rubygems"
 require "active_record"
 require "yaml"
+require 'yaml/store'
 
 config = YAML.load_file( './database.yml' )
 ActiveRecord::Base.establish_connection(config["db"]["development"])
@@ -15,4 +16,20 @@ end
 
 #p Sensor.select(status, count(status))#.group("status")
 
-p Sensor.group("status").count
+#count = Sensor.group("status").count
+
+t = Time.now.strftime "%Y-%m-%d"
+
+stats_today = Sensor.group("status").count
+
+db = YAML::Store.new "yaml.db"
+
+db.transaction do
+  db[t] = stats_today
+end
+
+a = db.transaction do
+  db
+end
+
+p a
