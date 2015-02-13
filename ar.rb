@@ -21,6 +21,8 @@ end
 t = Time.now.strftime "%Y-%m-%d"
 
 stats_today = Sensor.group("status").count
+stats_today["TODAY"] = t
+puts "stats_today: #{stats_today.class}"
 
 db = YAML::Store.new "yaml.db"
 

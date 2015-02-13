@@ -105,17 +105,31 @@
 -->
 
 <script>
-Morris.Line({
+var stats_history = [];
+$.getJSON("history", function(res){
+  $.each(res['table'], function(index, value){
+    value['TODAY'] = index;
+    stats_history.push(value);
+    //console.log(stats_history); // OK
+  });
+  //console.log(stats_history); // OK
+}).done(function(){
+  //console.log(stats_history)
+  graph.setData(stats_history);
+});
+//console.log(stats_history); // Empty
+</script>
+
+<script>
+var graph = Morris.Line({
   element: 'history_chart',
   data: [
     //{ y: '2015-02-09', a: 316, b: 0 },
-    { y: '2015-02-09', a: 316, b: 40, c: 23 },
-    { y: '2015-02-10', a: 316, b: 40, c: 23  },
-    { y: '2015-02-11', a: 311, b: 40, c: 23  },
-    { y: '2015-02-12', a: 316, b: 40, c: 23  }
+    //{ TODAY: '2015-02-12', RUNNING: 316, STOPPED: 40, TERMINATED: 23  },
+    //{ TODAY: '2015-02-13', RUNNING: 316, STOPPED: 40, TERMINATED: 23  }
   ],
-  xkey: 'y',
-  ykeys: ['a', 'b', 'c'],
+  xkey: 'TODAY',
+  ykeys: ['RUNNING', 'STOPPED', 'TERMINATED'],
   labels: ['Running', 'Stopped', 'Terminated'],
   //goals: [300],
   lineColors: ['#18bc9c', '#e74c3c', '#f39c12'],

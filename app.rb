@@ -20,18 +20,6 @@ db.transaction do
   db[today] = stats_today
 end
 
-#db.transaction do
-#  p db
-#end
-
-#Order.select("date(created_at) as ordered_date, sum(price) as total_price").group("date(created_at)")
-
-#p Sensor.all
-
-#p Sensor.select(status, count(status))#.group("status")
-
-#p Sensor.group("status").count
-
 get '/' do
   erb :index
 end
