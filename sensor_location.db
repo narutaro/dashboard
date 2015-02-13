@@ -1,0 +1,1921 @@
+---
+dia-ed-b549a19a:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+dio-am-1c083a43:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+dio-am-24844718:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+dio-am-2ad716b5:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+dio-am-2c37c41d:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+dio-am-50e427a0:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+dio-am-53f11b05:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+dio-am-a3eb0ab5:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+dio-am-b09ca084:
+  LatLng:
+  - 1.3667
+  - 103.8
+  name:
+  - Singapore
+dio-am-b49ca9fe:
+  LatLng:
+  - -23.4733
+  - -46.6658
+  name:
+  - São Paulo
+dio-am-ba99561e:
+  LatLng:
+  - -33.8666
+  - 151.2082
+  name:
+  - Sydney
+dio-am-ce34671b:
+  LatLng:
+  - 1.3667
+  - 103.8
+  name:
+  - Singapore
+dio-am-d0c85416:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+dio-am-d0e5640f:
+  LatLng:
+  - -33.8666
+  - 151.2082
+  name:
+  - Sydney
+dio-am-dfaf8fb3:
+  LatLng:
+  - -33.8666
+  - 151.2082
+  name:
+  - Sydney
+dio-am-e6ae341d:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+dio-am-e8174b1a:
+  LatLng:
+  - 35.685
+  - 139.7514
+  name:
+  - Tokyo
+dio-am-e8bd70e2:
+  LatLng:
+  - -23.4733
+  - -46.6658
+  name:
+  - São Paulo
+dio-at-a480ba44:
+  LatLng:
+  - 37.1894
+  - -121.7053
+  name:
+  - San José
+dio-at-d10307e4:
+  LatLng:
+  - 37.978
+  - -122.0311
+  name:
+  - United States
+dio-ca-323be45f:
+  LatLng:
+  - 49.2857
+  - -123.1142
+  name:
+  - Vancouver
+dio-cn-6070f2d7:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+dio-cn-6acb154c:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+dio-dd-25ed2eb8:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+dio-ed-05a79393:
+  LatLng:
+  - 48.2
+  - 16.3667
+  name:
+  - Austria
+dio-ed-0f252993:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+dio-ed-19d0b673:
+  LatLng:
+  - -33.4378
+  - -70.6503
+  name:
+  - Chile
+dio-ed-1fb4f02c:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+dio-ed-71bc431e:
+  LatLng:
+  - 40.4024
+  - -3.6924
+  name:
+  - Madrid
+dio-ed-8929b8fe:
+  LatLng:
+  - 42.8333
+  - 12.8333
+  name:
+  - Italy
+dio-ed-a7466aec:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+dio-ed-a84161d8:
+  LatLng:
+  - 55.75
+  - 37.6166
+  name:
+  - Russia
+dio-ed-ce5a3fe6:
+  LatLng:
+  - 52.25
+  - 21.0
+  name:
+  - Varsovie
+dio-ed-f4849dc3:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+dio-ed-f661df0d:
+  LatLng:
+  - 40.4
+  - -3.6833
+  name:
+  - Spain
+dio-ed-faabd3a0:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+dio-gg-0fe7b1ce:
+  LatLng:
+  - 37.7898
+  - -122.3942
+  name:
+  - San Francisco
+dio-gg-2730120a:
+  LatLng:
+  - 37.7898
+  - -122.3942
+  name:
+  - San Francisco
+dio-gl-0de24ff9:
+  LatLng:
+  - 56.8981
+  - 12.5019
+  name:
+  - Falkenberg
+dio-gl-654cdc4f:
+  LatLng:
+  - 59.3294
+  - 18.0686
+  name:
+  - Sweden
+dio-gl-b73095d9:
+  LatLng:
+  - 56.8981
+  - 12.5019
+  name:
+  - Falkenberg
+dio-ln-096585ca:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+dio-ln-23e8bc58:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+dio-ln-4064f9a2:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+dio-ln-4247f302:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+dio-ln-56bf9695:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+dio-ln-90642807:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+dio-ln-cb37c1ae:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+dio-ln-f504984c:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+dio-rs-341eed92:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+dio-rs-7de1eb22:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+dio-sb-aecee291:
+  LatLng:
+  - 59.95
+  - 10.75
+  name:
+  - Norway
+dio-vu-0f8a5649:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+dio-vu-40414766:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+dio-vu-53a97959:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+dio-vu-5c7ff1c1:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+dio-vu-659a752e:
+  LatLng:
+  - 48.8534
+  - 2.3487999999999998
+  name:
+  - Paris
+dio-vu-73705317:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+dio-vu-7978f1cb:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+dio-vu-88d76f0f:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+dio-vu-9858f8db:
+  LatLng:
+  - 47.6344
+  - -122.3422
+  name:
+  - Seattle
+dio-vu-9a47a161:
+  LatLng:
+  - 52.374
+  - 4.8897
+  name:
+  - Amsterdam
+dio-vu-a44b20c6:
+  LatLng:
+  - 33.7516
+  - -84.3915
+  name:
+  - Atlanta
+gla-am-1c083a43:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+gla-am-1eea2793:
+  LatLng:
+  - -23.4733
+  - -46.6658
+  name:
+  - São Paulo
+gla-am-24844718:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+gla-am-2ad716b5:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+gla-am-2c37c41d:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+gla-am-50e427a0:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+gla-am-53f11b05:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+gla-am-a3eb0ab5:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+gla-am-dfaf8fb3:
+  LatLng:
+  - -33.8666
+  - 151.2082
+  name:
+  - Sydney
+gla-am-e6ae341d:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+gla-am-e8174b1a:
+  LatLng:
+  - 35.685
+  - 139.7514
+  name:
+  - Tokyo
+gla-at-922784f0:
+  LatLng:
+  - 37.1894
+  - -121.7053
+  name:
+  - San José
+gla-at-d10307e4:
+  LatLng:
+  - 37.978
+  - -122.0311
+  name:
+  - United States
+gla-dd-25ed2eb8:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+gla-ed-0f252993:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+gla-ed-19d0b673:
+  LatLng:
+  - -33.4378
+  - -70.6503
+  name:
+  - Chile
+gla-ed-1fb4f02c:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+gla-ed-71bc431e:
+  LatLng:
+  - 40.4024
+  - -3.6924
+  name:
+  - Madrid
+gla-ed-8929b8fe:
+  LatLng:
+  - 42.8333
+  - 12.8333
+  name:
+  - Italy
+gla-ed-a7466aec:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+gla-ed-a84161d8:
+  LatLng:
+  - 55.75
+  - 37.6166
+  name:
+  - Russia
+gla-ed-b549a19a:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+gla-ed-ce5a3fe6:
+  LatLng:
+  - 52.25
+  - 21.0
+  name:
+  - Varsovie
+gla-ed-f4849dc3:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+gla-ed-f661df0d:
+  LatLng:
+  - 40.4
+  - -3.6833
+  name:
+  - Spain
+gla-ed-faabd3a0:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+gla-gl-0de24ff9:
+  LatLng:
+  - 56.8981
+  - 12.5019
+  name:
+  - Falkenberg
+gla-gl-654cdc4f:
+  LatLng:
+  - 59.3294
+  - 18.0686
+  name:
+  - Sweden
+gla-is-02c05e2c:
+  LatLng:
+  - -29.0
+  - 24.0
+  name:
+  - South Africa
+gla-ln-23e8bc58:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+gla-ln-4064f9a2:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+gla-ln-4247f302:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+gla-ln-56bf9695:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+gla-ln-90642807:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+gla-ln-cb37c1ae:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+gla-ln-eb7db9d4:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+gla-ln-f217b477:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+gla-rs-5dcb7b52:
+  LatLng:
+  - 22.2833
+  - 114.15
+  name:
+  - Hong Kong
+gla-vu-0f8a5649:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+gla-vu-40414766:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+gla-vu-53a97959:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+gla-vu-5c7ff1c1:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+gla-vu-7978f1cb:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+gla-vu-88d76f0f:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+gla-vu-9a47a161:
+  LatLng:
+  - 52.374
+  - 4.8897
+  name:
+  - Amsterdam
+kip-am-1c083a43:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+kip-am-24844718:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+kip-am-2ad716b5:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+kip-am-2c37c41d:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+kip-am-439c3687:
+  LatLng:
+  - 1.3667
+  - 103.8
+  name:
+  - Singapore
+kip-am-50e427a0:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+kip-am-53f11b05:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+kip-am-a3eb0ab5:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+kip-am-d2ec0a79:
+  LatLng:
+  - -23.4733
+  - -46.6658
+  name:
+  - São Paulo
+kip-am-dfaf8fb3:
+  LatLng:
+  - -33.8666
+  - 151.2082
+  name:
+  - Sydney
+kip-am-e6ae341d:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+kip-am-e8174b1a:
+  LatLng:
+  - 35.685
+  - 139.7514
+  name:
+  - Tokyo
+kip-at-d10307e4:
+  LatLng:
+  - 37.978
+  - -122.0311
+  name:
+  - United States
+kip-dd-25ed2eb8:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+kip-ed-0f252993:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+kip-ed-19d0b673:
+  LatLng:
+  - -33.4378
+  - -70.6503
+  name:
+  - Chile
+kip-ed-1fb4f02c:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+kip-ed-71bc431e:
+  LatLng:
+  - 40.4024
+  - -3.6924
+  name:
+  - Madrid
+kip-ed-8929b8fe:
+  LatLng:
+  - 42.8333
+  - 12.8333
+  name:
+  - Italy
+kip-ed-a7466aec:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+kip-ed-a84161d8:
+  LatLng:
+  - 55.75
+  - 37.6166
+  name:
+  - Russia
+kip-ed-b549a19a:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+kip-ed-ce5a3fe6:
+  LatLng:
+  - 52.25
+  - 21.0
+  name:
+  - Varsovie
+kip-ed-f4849dc3:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+kip-ed-f661df0d:
+  LatLng:
+  - 40.4
+  - -3.6833
+  name:
+  - Spain
+kip-ed-faabd3a0:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+kip-gl-0de24ff9:
+  LatLng:
+  - 56.8981
+  - 12.5019
+  name:
+  - Falkenberg
+kip-gl-654cdc4f:
+  LatLng:
+  - 59.3294
+  - 18.0686
+  name:
+  - Sweden
+kip-is-7d26bfb1:
+  LatLng:
+  - -29.0
+  - 24.0
+  name:
+  - South Africa
+kip-ln-23e8bc58:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+kip-ln-33ce0c32:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+kip-ln-4064f9a2:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+kip-ln-4247f302:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+kip-ln-56bf9695:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+kip-ln-90642807:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+kip-ln-cb37c1ae:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+kip-ln-ee92f556:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+kip-rs-5825b0d6:
+  LatLng:
+  - 22.2833
+  - 114.15
+  name:
+  - Hong Kong
+kip-vu-0f8a5649:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+kip-vu-40414766:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+kip-vu-53a97959:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+kip-vu-5c7ff1c1:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+kip-vu-7978f1cb:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+kip-vu-88d76f0f:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+kip-vu-9a47a161:
+  LatLng:
+  - 52.374
+  - 4.8897
+  name:
+  - Amsterdam
+thg-is-b8982589:
+  LatLng:
+  - -29.0
+  - 24.0
+  name:
+  - South Africa
+dio-dd-67f067eb:
+  LatLng:
+  - 37.3961
+  - -121.9617
+  name:
+  - Santa Clara
+kip-dd-67f067eb:
+  LatLng:
+  - 37.3961
+  - -121.9617
+  name:
+  - Santa Clara
+gla-dd-67f067eb:
+  LatLng:
+  - 37.3961
+  - -121.9617
+  name:
+  - Santa Clara
+dio-dd-f6b050f4:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+kip-dd-f6b050f4:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+gla-dd-f6b050f4:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+dio-am-588388d6:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+kip-am-588388d6:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+gla-am-588388d6:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+p0f-am-588388d6:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+sur-am-588388d6:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+dio-vu-6250c715:
+  LatLng:
+  - 34.053
+  - -118.2642
+  name:
+  - Los Angeles
+kip-vu-6250c715:
+  LatLng:
+  - 34.053
+  - -118.2642
+  name:
+  - Los Angeles
+gla-vu-6250c715:
+  LatLng:
+  - 34.053
+  - -118.2642
+  name:
+  - Los Angeles
+p0f-vu-6250c715:
+  LatLng:
+  - 34.053
+  - -118.2642
+  name:
+  - Los Angeles
+sur-vu-6250c715:
+  LatLng:
+  - 34.053
+  - -118.2642
+  name:
+  - Los Angeles
+p0f-vu-88d76f0f:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+sur-vu-88d76f0f:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+p0f-vu-53a97959:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+sur-vu-53a97959:
+  LatLng:
+  - 25.8124
+  - -80.2401
+  name:
+  - Miami
+p0f-ln-23e8bc58:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+sur-ln-23e8bc58:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+p0f-ln-90642807:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+sur-ln-90642807:
+  LatLng:
+  - 35.69
+  - 139.69
+  name:
+  - Japan
+p0f-vu-5c7ff1c1:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+sur-vu-5c7ff1c1:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+sur-vu-7978f1cb:
+  LatLng:
+  - 51.5142
+  - -0.0931
+  name:
+  - Londres
+p0f-vu-40414766:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+sur-vu-40414766:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+p0f-vu-9a47a161:
+  LatLng:
+  - 52.374
+  - 4.8897
+  name:
+  - Amsterdam
+sur-vu-9a47a161:
+  LatLng:
+  - 52.374
+  - 4.8897
+  name:
+  - Amsterdam
+p0f-gl-0de24ff9:
+  LatLng:
+  - 56.8981
+  - 12.5019
+  name:
+  - Falkenberg
+sur-gl-0de24ff9:
+  LatLng:
+  - 56.8981
+  - 12.5019
+  name:
+  - Falkenberg
+p0f-gl-654cdc4f:
+  LatLng:
+  - 59.3294
+  - 18.0686
+  name:
+  - Sweden
+sur-gl-654cdc4f:
+  LatLng:
+  - 59.3294
+  - 18.0686
+  name:
+  - Sweden
+p0f-vu-0f8a5649:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+sur-vu-0f8a5649:
+  LatLng:
+  - -33.9032
+  - 150.9677
+  name:
+  - Sydney
+p0f-ed-8929b8fe:
+  LatLng:
+  - 42.8333
+  - 12.8333
+  name:
+  - Italy
+sur-ed-8929b8fe:
+  LatLng:
+  - 42.8333
+  - 12.8333
+  name:
+  - Italy
+p0f-ed-f661df0d:
+  LatLng:
+  - 40.4
+  - -3.6833
+  name:
+  - Spain
+sur-ed-f661df0:
+  LatLng:
+  - 40.4
+  - -3.6833
+  name:
+  - Spain
+p0f-ed-faabd3a0:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+sur-ed-faabd3a0:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+p0f-ed-a7466aec:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+sur-ed-a7466aec:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+p0f-dd-67f067eb:
+  LatLng:
+  - 37.3961
+  - -121.9617
+  name:
+  - Santa Clara
+sur-dd-67f067eb:
+  LatLng:
+  - 37.3961
+  - -121.9617
+  name:
+  - Santa Clara
+p0f-ln-56bf9695:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+sur-ln-56bf9695:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+p0f-ln-4247f302:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+sur-ln-4247f302:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+p0f-ed-0f252993:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+sur-ed-0f252993:
+  LatLng:
+  - 47.3667
+  - 8.55
+  name:
+  - Zurich
+p0f-ln-cb37c1ae:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+sur-ln-cb37c1ae:
+  LatLng:
+  - 51.5
+  - -0.13
+  name:
+  - United Kingdom
+p0f-ed-f4849dc3:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+sur-ed-f4849dc3:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+p0f-ed-b549a19a:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+sur-ed-b549a19a:
+  LatLng:
+  - 31.5
+  - 34.75
+  name:
+  - Israel
+p0f-ed-19d0b673:
+  LatLng:
+  - -33.4378
+  - -70.6503
+  name:
+  - Chile
+sur-ed-19d0b673:
+  LatLng:
+  - -33.4378
+  - -70.6503
+  name:
+  - Chile
+p0f-dd-f6b050f4:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+sur-dd-f6b050f4:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+p0f-dd-25ed2eb8:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+sur-dd-25ed2eb8:
+  LatLng:
+  - 39.6237
+  - -104.8738
+  name:
+  - United States
+p0f-ed-a84161d8:
+  LatLng:
+  - 55.75
+  - 37.6166
+  name:
+  - Russia
+sur-ed-a84161d8:
+  LatLng:
+  - 55.75
+  - 37.6166
+  name:
+  - Russia
+p0f-ed-ce5a3fe6:
+  LatLng:
+  - 52.25
+  - 21.0
+  name:
+  - Varsovie
+sur-ed-ce5a3fe6:
+  LatLng:
+  - 52.25
+  - 21.0
+  name:
+  - Varsovie
+p0f-ed-1fb4f02c:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+sur-ed-1fb4f02c:
+  LatLng:
+  - 65.0
+  - -18.0
+  name:
+  - Iceland
+p0f-ed-71bc431e:
+  LatLng:
+  - 40.4024
+  - -3.6924
+  name:
+  - Madrid
+sur-ed-71bc431e:
+  LatLng:
+  - 40.4024
+  - -3.6924
+  name:
+  - Madrid
+p0f-ln-4064f9a2:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+sur-ln-4064f9a2:
+  LatLng:
+  - 39.4899
+  - -74.4773
+  name:
+  - United States
+p0f-am-a3eb0ab5:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+sur-am-a3eb0ab5:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+p0f-am-2c37c41d:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+sur-am-2c37c41d:
+  LatLng:
+  - 45.7788
+  - -119.529
+  name:
+  - United States
+p0f-am-2ad716b5:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+sur-am-2ad716b5:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+p0f-am-53f11b05:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+sur-am-53f11b05:
+  LatLng:
+  - 39.0437
+  - -77.4875
+  name:
+  - United States
+p0f-am-50e427a0:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+sur-am-50e427a0:
+  LatLng:
+  - 53.3478
+  - -6.2597
+  name:
+  - Ireland
+p0f-am-e8174b1a:
+  LatLng:
+  - 35.685
+  - 139.7514
+  name:
+  - Tokyo
+p0f-am-dfaf8fb3:
+  LatLng:
+  - -33.8666
+  - 151.2082
+  name:
+  - Sydney
+sur-am-dfaf8fb3:
+  LatLng:
+  - -33.8666
+  - 151.2082
+  name:
+  - Sydney
+p0f-am-24844718:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+sur-am-24844718:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+p0f-am-1c083a43:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+sur-am-1c083a43:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+p0f-am-e6ae341d:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+sur-am-e6ae341d:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+p0f-at-d10307e4:
+  LatLng:
+  - 37.978
+  - -122.0311
+  name:
+  - United States
+sur-at-d10307e4:
+  LatLng:
+  - 37.978
+  - -122.0311
+  name:
+  - United States
+dio-am-8663429f:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+kip-am-8663429f:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+gla-am-8663429f:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+p0f-am-8663429f:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+sur-am-8663429f:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+dio-am-a104c061:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+kip-am-a104c061:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+gla-am-a104c061:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+p0f-am-a104c061:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+sur-am-a104c061:
+  LatLng:
+  - 50.1167
+  - 8.6833
+  name:
+  - Francfort-sur-le-Main
+dio-vu-fb4c1638:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+kip-vu-fb4c1638:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+gla-vu-fb4c1638:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+p0f-vu-fb4c1638:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+sur-vu-fb4c1638:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+dio-vu-85e40b87:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+kip-vu-85e40b87:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+gla-vu-85e40b87:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+p0f-vu-85e40b87:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+sur-vu-85e40b87:
+  LatLng:
+  - 40.4169
+  - -74.2579
+  name:
+  - United States
+dio-vu-40dfe2fd:
+  LatLng:
+  - 47.6344
+  - -122.3422
+  name:
+  - Seattle
+kip-vu-40dfe2fd:
+  LatLng:
+  - 47.6344
+  - -122.3422
+  name:
+  - Seattle
+gla-vu-40dfe2fd:
+  LatLng:
+  - 47.6344
+  - -122.3422
+  name:
+  - Seattle
+p0f-vu-40dfe2fd:
+  LatLng:
+  - 47.6344
+  - -122.3422
+  name:
+  - Seattle
+sur-vu-40dfe2fd:
+  LatLng:
+  - 47.6344
+  - -122.3422
+  name:
+  - Seattle
+dio-vu-84487f75:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+kip-vu-84487f75:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+gla-vu-84487f75:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+p0f-vu-84487f75:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+sur-vu-84487f75:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+dio-vu-dd2dcd30:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+kip-vu-dd2dcd30:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+gla-vu-dd2dcd30:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+p0f-vu-dd2dcd30:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+sur-vu-dd2dcd30:
+  LatLng:
+  - 27.9987
+  - -82.5156
+  name:
+  - Tampa
+dio-am-478aa113:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+gla-am-478aa113:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+kip-am-478aa113:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+p0f-am-478aa113:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+sur-am-478aa113:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+dio-am-4c599f7e:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+gla-am-4c599f7e:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+kip-am-4c599f7e:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+p0f-am-4c599f7e:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+sur-am-4c599f7e:
+  LatLng:
+  - 37.7749
+  - -122.4194
+  name:
+  - San Francisco
+dio-am-1bd3d7fe:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+gla-am-1bd3d7fe:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+kip-am-1bd3d7fe:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+p0f-am-1bd3d7fe:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+sur-am-1bd3d7fe:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+dio-am-d5144675:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+gla-am-d5144675:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+kip-am-d5144675:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+p0f-am-d5144675:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+sur-am-d5144675:
+  LatLng:
+  - 40.5525
+  - -74.2915
+  name:
+  - United States
+dio-rs-5a69dcb2:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+gla-rs-5a69dcb2:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+kip-rs-5a69dcb2:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+p0f-rs-5a69dcb2:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+sur-rs-5a69dcb2:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+dio-rs-0d8ef474:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+gla-rs-0d8ef474:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+kip-rs-0d8ef474:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+p0f-rs-0d8ef474:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+sur-rs-0d8ef474:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+dio-rs-5fb13f62:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+gla-rs-5fb13f62:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+kip-rs-5fb13f62:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+p0f-rs-5fb13f62:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio
+sur-rs-5fb13f62:
+  LatLng:
+  - 29.4889
+  - -98.3987
+  name:
+  - San Antonio

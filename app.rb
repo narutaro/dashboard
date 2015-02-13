@@ -11,14 +11,10 @@ class Sensor < ActiveRecord::Base
   self.table_name = 'sensor_data_sensor'
 end
 
-today = Time.now.strftime "%Y-%m-%d"
-stats_today = Sensor.group("status").count
 
-db = YAML::Store.new "yaml.db"
+history_db = YAML::Store.new "history.db"
+sensor_location_db = YAML::Store.new "sensor_location.db"
 
-db.transaction do
-  db[today] = stats_today
-end
 
 get '/' do
   erb :index
@@ -31,7 +27,20 @@ get '/stats' do
 end
 
 get '/history' do
+  today = Time.now.strftime "%Y-%m-%d"
+  stats_today = Sensor.group("status").count
+  history_db.transaction do
+    history_db[today] = stats_today
+  end
+  history = history_db.transaction do history_db end
   content_type :json, :charset => 'utf-8'
-  history = db.transaction do db end
   history.to_json(:root => false)
+end
+
+get '/map' do
+  map = sensor_location_db.transaction(true) do
+    sensor_location_db
+  end
+  content_type :json, :charset => 'utf-8'
+  map.to_json(:root => false)
 end
