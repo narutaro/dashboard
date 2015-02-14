@@ -13,7 +13,7 @@ end
 
 
 history_db = YAML::Store.new "history.db"
-sensor_location_db = YAML::Store.new "sensor_location.db"
+location_db = YAML::Store.new "location.db"
 
 
 get '/' do
@@ -38,8 +38,8 @@ get '/history' do
 end
 
 get '/map' do
-  map = sensor_location_db.transaction(true) do
-    sensor_location_db
+  map = location_db.transaction(true) do
+    location_db
   end
   content_type :json, :charset => 'utf-8'
   map.to_json(:root => false)
