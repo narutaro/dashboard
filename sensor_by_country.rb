@@ -1,20 +1,31 @@
-require "rubygems"
-require 'maxminddb'
-require "active_record"
+#require "rubygems"
+#require 'maxminddb'
+#require "active_record"
 require "yaml"
-require 'yaml/store'
+#require 'yaml/store'
 
-geoip_db = MaxMindDB.new('./GeoLite2-City.mmdb')
+#geoip_db = MaxMindDB.new('./GeoLite2-City.mmdb')
 
-config = YAML.load_file( './database.yml' )
-ActiveRecord::Base.establish_connection(config["db"]["development"])
+#config = YAML.load_file( './database.yml' )
+#ActiveRecord::Base.establish_connection(config["db"]["development"])
 
-class Sensor < ActiveRecord::Base
-  self.table_name = 'sensor_data_sensor'
+#class Sensor < ActiveRecord::Base
+#  self.table_name = 'sensor_data_sensor'
+#end
+
+#location_db = YAML::Store.new "location.db"
+#p location_db.class.name
+location_data = YAML.load(File.read("location.db"))
+
+#p location_data.class
+countries = []
+location_data.values.each do |e|
+  countries <<  e.values_at("country_name")
 end
+#p countries
+p countries.flatten.group_by(&:capitalize).map{|k, v| [k, v.length]}
 
-location_db = YAML::Store.new "location.db"
-
+=begin
 running_sensors = {}
 Sensor.where(status: "RUNNING").each do |s|
 
@@ -36,5 +47,6 @@ Sensor.where(status: "RUNNING").each do |s|
   end
 
 end
+=end
 
 
