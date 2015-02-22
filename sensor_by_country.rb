@@ -17,13 +17,22 @@ require "yaml"
 #p location_db.class.name
 location_data = YAML.load(File.read("location.db"))
 
+#location_data.each do |ld|
+#  p ld
+#end
+
 #p location_data.class
 countries = []
 location_data.values.each do |e|
   countries <<  e.values_at("country_name")
 end
-#p countries
-p countries.flatten.group_by(&:capitalize).map{|k, v| [k, v.length]}
+
+sensor_count_by_country = countries.flatten.group_by(&:capitalize).map do |k, v|
+  [k, v.length]
+end
+
+p sensor_count_by_country
+#p sensor_count_by_country
 
 =begin
 running_sensors = {}

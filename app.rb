@@ -44,3 +44,16 @@ get '/map' do
   content_type :json, :charset => 'utf-8'
   map.to_json(:root => false)
 end
+
+get '/counts_by_country' do
+  location_data = YAML.load(File.read("location.db"))
+  countries = []
+  location_data.values.each do |e|
+    countries <<  e.values_at("country_name")
+  end
+  counts_by_country = countries.flatten.group_by(&:capitalize).map do |k, v|
+    [k, v.length]
+  end
+  content_type :json, :charset => 'utf-8'
+  {"data" => counts_by_country}.to_json(:root => false)
+end
